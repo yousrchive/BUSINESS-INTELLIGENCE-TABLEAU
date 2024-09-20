@@ -114,6 +114,20 @@
 
 <!-- 맵차트 관해 배우게 된 점을 적어주세요 -->
 
+```js
+## 참고
+Country/Region - 나라/지역
+State/Province - 시/도
+City - 시
+County - 군
+Postal Code - 우편번호
+Area Code - 지역 코드
+Airport - 공항
+MSA/CBSA (Metropolitan Statistical Area) - 광역 통계 지역
+Longitude - 경도
+Latitude - 위도
+```
+
 ## 18강: 텍스트테이블
 
 <!-- 텍스트테이블에 관해 배우게 된 점을 적어주세요-->
