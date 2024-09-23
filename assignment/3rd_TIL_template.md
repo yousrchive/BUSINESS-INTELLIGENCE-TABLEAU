@@ -95,7 +95,7 @@
 코로나 시기의 도시별 매출 top10을 확인하고자
 1) 배송 날짜가 코로나시기인 2021년, 2022년에 해당하는 데이터를 필터링했고
 2) 위치 계층을 행으로 설정해 펼쳐두었습니다.
-이때, 수익의 합계가 TOP 10인 도시들만을 보았습니다.
+이때, 매출의 합계가 TOP 10인 도시들만을 보았습니다.
 ```
 
 ![image-2.png](https://github.com/yousrchive/tableau/blob/main/study/img/1st%20study/image-4.png?raw=true)
