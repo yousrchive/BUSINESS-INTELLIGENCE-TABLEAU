@@ -31,7 +31,7 @@
 | 1~9강        |  ✅      | [링크](https://www.youtube.com/watch?v=AXkaUrJs-Ko&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=84)       |
 | 10~19강      | ✅      | [링크](https://www.youtube.com/watch?v=AXkaUrJs-Ko&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=75)       |
 | 20~29강      | ✅      | [링크](https://www.youtube.com/watch?v=AXkaUrJs-Ko&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=65)       |
-| 30~38강      | ✅      | [링크](https://youtu.be/e6J0Ljd6h44?si=nhGbB7GsdOCqj15f)       |
+| 30~38강      | ✅      | [링크](https://www.youtube.com/watch?v=e6J0Ljd6h44&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=55)       |
 | 39~49강      | 🍽️      | [링크](https://www.youtube.com/watch?v=AXkaUrJs-Ko&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=45)       |
 | 50~59강      | 🍽️      | [링크](https://www.youtube.com/watch?v=AXkaUrJs-Ko&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=35)       |
 | 60~69강      | 🍽️      | [링크](https://www.youtube.com/watch?v=AXkaUrJs-Ko&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=25)       |
@@ -84,33 +84,9 @@
 
 ## 문제 1.
 
-규석이는 이제껏 매출을 올리는 데에 힘썼었지만, 왠지 모르게 주머니에 들어오는 돈이 없어 속상합니다. 
-
-매출 시/도별 매출이 상위 20%에 속하지만, 수익률이 10% 이하인 곳을 확인해보려 합니다. 이때, 시/도별 매출이 상위20%이면서 수익률이 10%이상인 곳을 'In'으로, 그렇지 않은 곳들은 'Out'으로 표시되는 집합을 이용하여 수행해주세요.
-
-어떤 집합을 만들었고, 어떤 결합을 하였는지를 중심으로 기술하고, 결과 자료를 첨부해주세요. (텍스트 표 형태이면 됩니다)
+규석이는 이제껏 매출을 올리는 데에 힘썼었지만, 왠지 모르게 주머니에 들어오는 돈이 없어 속상합니다. 매출 시/도별 매출이 상위 20%에 속하지만, 수익률이 10% 이하인 곳을 확인해보려 합니다. 어떤 집합을 만들었고, 어떤 결합을 하였는지를 중심으로 기술하고, 결과 자료를 첨부해주세요. (텍스트 표 형태이면 됩니다)
 
 
-## 문제 2.
-선희는 주문 Id별로 주문에서 배송까지에 걸리는 날짜 일수가 궁금했습니다. 그래서 주문 ID별로 주문에서 배송까지 걸리는 일자를 '배송까지 걸린 일수' 계산된 필드로 만들고, 이를 측정값으로 마크에 올린 후 확인해보았습니다. 이때, 계산된 필드의 식은 'DATEDIFF' 함수를 이용하였습니다.
-
-DATEDIFF 함수의 식을 적어주세요.
-
-```
-여기에 답을 적어주세요!
-```
-
-그런데 아래 그림처럼 '주문 날짜'와 '배송 날짜'를 함께 행에 올려 확인해보니, 주문날짜와 배송날짜의 차이가 '배송까지 걸린 일수'와 다릅니다. 왜 그런 걸까요? 
-
-```
-여기에 답을 적어주세요!
-```
-
-그리고 이를 해결하기 위해서는 어떻게 해야 할까요?
-
-```
-여기에 답을 적어주세요!
-```
 
 
 ## 문제 1.
