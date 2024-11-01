@@ -8,7 +8,9 @@
 
 - 42강 : [매개변수](#42-매개변수)
 
-* (43강이 없어 패스합니다)
+- 43강 : [매개변수 실습](#43-매개변수-실습) 
+![링크](https://youtu.be/GJvB8hBqeE8?si=3jIj1iymZHZ7mBam)
+
 - 44강: [매개변수 실습](#44-매개변수-실습)
 
 - 45강: [마크카드](#45-워크시트-마크카드)
@@ -21,8 +23,6 @@
 
 - [문제2](#문제-2)
 
-- [문제3](#문제-3)
-
 ## Study Schedule
 
 | 강의 범위     | 강의 이수 여부 | 링크                                                                                                        |
@@ -32,7 +32,7 @@
 | 20~29강      | ✅      | [링크](https://www.youtube.com/watch?v=AXkaUrJs-Ko&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=65)       |
 | 30~38강      | ✅      | [링크](https://www.youtube.com/watch?v=e6J0Ljd6h44&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=55)       |
 | 39~47강      | ✅      | [링크](https://www.youtube.com/watch?v=AXkaUrJs-Ko&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=45)       |
-| 50~59강      | 🍽️      | [링크](https://www.youtube.com/watch?v=AXkaUrJs-Ko&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=35)       |
+| 48~59강      | 🍽️      | [링크](https://www.youtube.com/watch?v=AXkaUrJs-Ko&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=35)       |
 | 60~69강      | 🍽️      | [링크](https://www.youtube.com/watch?v=AXkaUrJs-Ko&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=25)       |
 | 70~79강      | 🍽️      | [링크](https://www.youtube.com/watch?v=AXkaUrJs-Ko&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=15)       |
 | 80~89강      | 🍽️      | [링크](https://www.youtube.com/watch?v=AXkaUrJs-Ko&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=5)        |
@@ -84,8 +84,12 @@
 > **🧞‍♀️ 집합에도 매개변수를 적용할 수 있나요? 시도해봅시다**
 
 
+## 43. 매개변수 실습
+<!-- 영상 묶음에 포함되지 않아 찾기 어려우실까 링크를 아래에 첨부하겠습니다. 수강 후 삭제해주세요-->
+
+https://www.youtube.com/watch?v=GJvB8hBqeE8
+
 ## 44. 매개변수 실습
-(43번 강의가 없어 패스합니다)
 
 <!-- 매개변수에 대해 알게 된 점을 적어주세요 -->
 
